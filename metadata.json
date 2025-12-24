@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MindBridge",
+  "description": "A browser side-panel context bridge that synchronizes conversation history between ChatGPT, Claude, and Gemini to prevent hallucinations and maintain flow.",
+  "requestFramePermissions": []
+}
